@@ -1,0 +1,1 @@
+https://portal.azure.com/#@msapps.aghedupl.onmicrosoft.com/resource/subscriptions/d582ae05-1727-43c2-9b42-3ad3bf958789/resourcegroups/oliwier_kolbusz_bdp_2025/providers/microsoft.sql/servers/oliwier-kolbusz-bdp/databases/azure_iot/overview
